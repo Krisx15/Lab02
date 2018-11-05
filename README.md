@@ -1,1 +1,1 @@
-# Lab02 aaa
+#Sprawozdanie działające jest w pliku IoTspraw02.pdf
